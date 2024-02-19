@@ -7,7 +7,8 @@
       "description":" If you are going to do a lot of photo/video editing or play online games and stream videos, opt for this.",
       "rating":4,
       "price":1000,
-      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU"
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+      "noOfItem" : 1
     },
     {
       "id":2,
@@ -15,7 +16,8 @@
       "description":"This TV provides your favourite VOD (video on demand) services such as Netflix, Amazon Prime Video, Disney+, and YouTube.",
       "rating":3,
       "price":5000,
-      "imageSrc":"https://www.reliancedigital.in/medias/BPL-32H-A4300-Televisions-491893306-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMDc2ODR8aW1hZ2UvanBlZ3xpbWFnZXMvaDI1L2gxYi85NzMwMjY1MjUxODcwLmpwZ3wyYTg1NzI5N2ZjZjFkZjk2NGZhZTI1ZmU5ZDgxMTRiOTU3MjNmYjEyZTkwM2U2MGNkYmUzMjJhMmFjODFiMzYy"
+      "imageSrc":"https://www.reliancedigital.in/medias/BPL-32H-A4300-Televisions-491893306-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMDc2ODR8aW1hZ2UvanBlZ3xpbWFnZXMvaDI1L2gxYi85NzMwMjY1MjUxODcwLmpwZ3wyYTg1NzI5N2ZjZjFkZjk2NGZhZTI1ZmU5ZDgxMTRiOTU3MjNmYjEyZTkwM2U2MGNkYmUzMjJhMmFjODFiMzYy",
+      "noOfItem" : 1
     },
     {
       "id":3,
@@ -23,7 +25,8 @@
       "description":"It can deliver exceptional performance for gaming, multitasking and creativity.",
       "rating":4,
       "price":10000,
-      "imageSrc":"https://img.freepik.com/free-psd/laptop-mock-up-isolated_1310-1458.jpg?w=996&t=st=1705742938~exp=1705743538~hmac=6f20c92d6215a203ac4bd00d5281cb0d1413cdbd28802db558af2b687e68ea9c"
+      "imageSrc":"https://img.freepik.com/free-psd/laptop-mock-up-isolated_1310-1458.jpg?w=996&t=st=1705742938~exp=1705743538~hmac=6f20c92d6215a203ac4bd00d5281cb0d1413cdbd28802db558af2b687e68ea9c",
+      "noOfItem" : 1
     },
     {
       "id":4,
@@ -31,7 +34,8 @@
       "description":" This data cable is designed specifically for data transfer. ",
       "rating":3,
       "price":10,
-      "imageSrc":"https://media.istockphoto.com/id/497749772/photo/cable-connector-micro-usb-to-usb.jpg?s=612x612&w=0&k=20&c=F8dHR15KgXn1gDrxRxfhgLbsYJSRQit7G7VJsUNZHYk="
+      "imageSrc":"https://media.istockphoto.com/id/497749772/photo/cable-connector-micro-usb-to-usb.jpg?s=612x612&w=0&k=20&c=F8dHR15KgXn1gDrxRxfhgLbsYJSRQit7G7VJsUNZHYk=",
+      "noOfItem" : 1
     }
   ]
 }
